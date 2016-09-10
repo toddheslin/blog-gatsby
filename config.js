@@ -67,7 +67,7 @@ config = {
 
   // Development
   development: {
-    url: 'http://localhost:2368',
+    url: 'http://localhost:2368/blog',
     database: {
       client: 'sqlite3',
       connection: {
