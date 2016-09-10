@@ -1,3 +1,5 @@
+"use strict";
+
 var Podcast = require('podcast');
 var path = require('path');
 var podcastFeed = require(path.join(__dirname, '../content/data/podcast.json'));
