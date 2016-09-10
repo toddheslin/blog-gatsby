@@ -73,7 +73,7 @@ for (var i = 0; i < podcastFeed.length; i++) {
 var xml = feed.xml();
 
 module.exports = {
-  rss: (req,res) => {
+  rss: function(req,res) {
     res.set('Content-Type', 'text/xml')
     res.send(xml);
   }
