@@ -1,18 +1,18 @@
 module.exports = {
 
-  contact: (req,res) => {
+  contact: function(req,res) {
     res.redirect('/blog/contact');
   },
 
-  bio: (req,res) => {
+  bio: function(req,res) {
     res.redirect('/blog/bio');
   },
 
-  hire: (req,res) => {
+  hire: function(req,res) {
     res.redirect('/blog/hire');
   },
 
-  now: (req,res) => {
+  now: function(req,res) {
     res.redirect('/blog/now');
   }
 
