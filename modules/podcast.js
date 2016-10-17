@@ -29,12 +29,12 @@ var feed = new Podcast({
     itunesOwner: { name: 'Todd Heslin', email:'todd@heslin.net.au' },
     itunesExplicit: false,
     itunesCategory: {
-        "text": "Management & Marketing"
-        // "subcats": [{
-        //   "text": "Television"
-        // }]
+        "text": "Business"
+        "subcats": [{
+          "text": "Management & Marketing"
+        }]
     },
-    itunesImage: 'http://beingremarkable.me/public/img/podcast.png'
+    itunesImage: '/public/img/podcast.png'
 });
 
 for (var i = 0; i < podcastFeed.length; i++) {
@@ -43,12 +43,7 @@ for (var i = 0; i < podcastFeed.length; i++) {
       description: '',
       url: podcastFeed[i].enclosure.link, // link to the item
       guid: podcastFeed[i].guid, // optional - defaults to url
-      // categories: ['Category 1','Category 2','Category 3','Category 4'], // optional - array of item categories
-      // author: 'Todd Heslin', // optional - defaults to feed author property
       date: podcastFeed[i].pubDate, // any format that js Date can parse.
-      // lat: 33.417974, //optional latitude field for GeoRSS
-      // long: -111.933231, //optional longitude field for GeoRSS
-      // optional enclosure
       enclosure : {
         link: podcastFeed[i].enclosure.link,
         type: podcastFeed[i].enclosure.type,
