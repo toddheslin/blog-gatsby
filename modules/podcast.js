@@ -45,21 +45,13 @@ for (var i = 0; i < podcastFeed.length; i++) {
       guid: podcastFeed[i].guid, // optional - defaults to url
       date: podcastFeed[i].pubDate, // any format that js Date can parse.
       enclosure : {
-        link: podcastFeed[i].enclosure.link,
-        type: podcastFeed[i].enclosure.type,
-        length: podcastFeed[i].enclosure.length,
-        duration: podcastFeed[i].enclosure.duration,
-        rating: {
-          scheme: "urn:itunes",
-          value: "no"
-        }
+        url: podcastFeed[i].enclosure.link,
+        file: podcastFeed[i].enclosure.link,
+        type: 'audio/mpeg'
       },
       itunesAuthor: podcastFeed[i].author,
       itunesExplicit: false,
-      itunesSubtitle: '',
-      itunesSummary: '',
       itunesDuration: podcastFeed[i].enclosure.duration
-      // itunesKeywords: ['javascript','podcast']
   });
 
 }
