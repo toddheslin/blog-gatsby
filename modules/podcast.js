@@ -11,9 +11,9 @@ var podcastFeed = require(path.join(__dirname, '../content/data/podcast.json'));
 var feed = new Podcast({
     title: 'The Remarkable Crowdfunding Toddcast: Ideas | Tribes | Funding | Lifestyle',
     description: 'Todd Heslin from the Being Remarkable blog explores the question: How do you inspire your tribe to crowdfund and share your new projects?',
-    feed_url: 'https://beingremarkable.herokuapp/podcast',
+    feed_url: 'https://beingremarkable.herokuapp.com/podcast',
     site_url: 'http://beingremarkable.me',
-    image_url: 'https://beingremarkable.herokuapp/public/img/podcast.png',
+    image_url: 'https://beingremarkable.herokuapp.com/public/img/podcast.png',
     //docs: 'http://beingremarkable.me/rss/docs.html',
     author: 'Todd Heslin',
     managingEditor: 'Todd Heslin',
@@ -34,7 +34,7 @@ var feed = new Podcast({
           "text": "Management & Marketing"
         }]
     },
-    itunesImage: 'https://beingremarkable.herokuapp/public/img/podcast.png'
+    itunesImage: 'https://beingremarkable.herokuapp.com/public/img/podcast.png'
 });
 
 for (var i = 0; i < podcastFeed.length; i++) {
