@@ -46,7 +46,6 @@ for (var i = 0; i < podcastFeed.length; i++) {
       date: podcastFeed[i].pubDate, // any format that js Date can parse.
       enclosure : {
         url: podcastFeed[i].enclosure.link,
-        file: podcastFeed[i].enclosure.link,
         type: 'audio/mpeg'
       },
       itunesAuthor: podcastFeed[i].author,
