@@ -29,7 +29,7 @@ var feed = new Podcast({
     itunesOwner: { name: 'Todd Heslin', email:'todd@heslin.net.au' },
     itunesExplicit: false,
     itunesCategory: {
-        "text": "Business"
+        "text": "Business",
         "subcats": [{
           "text": "Management & Marketing"
         }]
