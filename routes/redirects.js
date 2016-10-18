@@ -3,6 +3,9 @@ module.exports = {
   home: function(req, res) {
     res.redirect('/blog')
   },
+  wufoo: function(req, res) {
+    res.redirect('https://www.wufoothemes.com')
+  },
   toddcast: function(req, res) {
     res.redirect('https://itunes.apple.com/au/podcast/remarkable-crowdfunding-toddcast/id650470845')
   },

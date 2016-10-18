@@ -45,6 +45,10 @@ ghost({
   // Podcast
   app.get('/podcast', podcast.rss);
 
+  // Wufoo themes
+  app.get('/wufoo-theme-kit', redirects.wufoo);
+  app.get('/wufoo', redirects.wufoo);
+
   // Redirects
   app.get('toddcast', redirects.toddcast);
   app.get('session9', redirects.session9);
