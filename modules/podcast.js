@@ -47,8 +47,7 @@ for (var i = 0; i < podcastFeed.length; i++) {
       enclosure : {
         url: podcastFeed[i].enclosure.link,
         type: podcastFeed[i].enclosure.type,
-        length: podcastFeed[i].enclosure.length,
-        duration: podcastFeed[i].enclosure.duration
+        length: podcastFeed[i].enclosure.length
       },
       itunesAuthor: podcastFeed[i].author,
       itunesExplicit: false,

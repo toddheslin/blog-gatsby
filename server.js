@@ -39,7 +39,7 @@ ghost({
   // Page routes
   app.get('/contact', routes.contact);
   app.get('/bio', routes.bio);
-  app.get('/hire-me', routes.hire);
+  app.get('/hire-me', routes.contact);
   app.get('/now', routes.now);
 
   // Podcast
