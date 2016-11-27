@@ -4,7 +4,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/toddheslin/itsaghost.git"
+    "url": "git://github.com/toddheslin/blog.git"
   },
   "bugs": "https://github.com/TryGhost/Ghost/issues",
   "private": true,
@@ -16,7 +16,11 @@
     "ncp": "^2.0.0",
     "pg": "latest",
     "podcast": "^0.2.2",
-    "serve-favicon": "^2.3.0"
+    "serve-favicon": "^2.3.0",
+    "express": "*",
+    "ejs": "*",
+    "body-parser": "*",
+    "cookie-parser": "*"
   },
   "engines": {
     "node": "~0.12.0"
