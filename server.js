@@ -33,6 +33,10 @@ ghost({
   app.use(cookieParser());
   app.use('/public', express.static(path.join(__dirname, 'public')));
 
+  /*
+  * All routes below sit behind /blog/*
+  */
+
   // App entry point
   app.get('/', redirects.home);
 
