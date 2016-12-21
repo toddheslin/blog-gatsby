@@ -122,12 +122,15 @@
 		width: 50%;
 		max-width: 90px;
 		border-radius: 90px;
+		display: block;
+		margin: auto;
 	}
 
 	h3,
 	h3 a {
-		font: 700 24px 'Montserrat', Arial, Sans-Serif;
+		font: 400 24px 'Montserrat', Arial, Sans-Serif;
 		color: #2b2626;
+		text-align: center;
 
 		&:hover {
 			color: $accent_color;
@@ -147,6 +150,7 @@
 		font: 400 16px 'Open Sans', Arial, Sans-Serif;
 		line-height: 36px;
 		color: #2b2626;
+		text-align: center;
 	}
 
 	&.featured {
