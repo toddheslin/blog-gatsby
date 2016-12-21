@@ -155,6 +155,7 @@ jQuery(document).ready(function(){
 			}
 		});
 	}
-	parseTags();
+	//parseTags();
+	// Not sure what this function is, doesn't seem to be referenced anyhere
 
 });
