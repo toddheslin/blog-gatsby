@@ -67,7 +67,7 @@ config = {
 
   // Development
   development: {
-    url: 'http://localhost:2368/blog',
+    url: 'http://localhost:1337/blog',
     database: {
       client: 'sqlite3',
       connection: {
@@ -77,7 +77,7 @@ config = {
     },
     server: {
       host: '127.0.0.1',
-      port: '2368'
+      port: '1337'
     },
     paths: {
       contentPath: path.join(__dirname, '/content/')
