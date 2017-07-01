@@ -14,18 +14,18 @@
     "cookie-parser": "*",
     "ejs": "*",
     "express": "*",
-    "ghost": "0.11.7",
+    "ghost": "^0.11.10",
     "ghost-s3-storage-adapter": "3.0.4",
     "pg": "latest",
     "podcast": "^0.2.2",
     "serve-favicon": "^2.3.0"
   },
   "engines": {
-    "node": "^6.9.0"
+    "node": "6.9.0"
   },
   "scripts": {
     "start": "nf start",
-    "local": "nf start dev"
+    "dev": "nf start dev"
   },
   "devDependencies": {
     "sqlite3": "^3.1.8"
