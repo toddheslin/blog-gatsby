@@ -17,7 +17,7 @@ const typography = new Typography({
     },
     {
       name: config.bodyFontFamily,
-      styles: ['400'],
+      styles: ['400','600'],
     },
   ],
 });

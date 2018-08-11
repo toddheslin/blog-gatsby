@@ -5,63 +5,68 @@ slug:  "three-fatal-mistakes"
 category: "Entrepreneurship"
 ---
 
-![](https://s3-ap-southeast-1.amazonaws.com/beingremarkable/2016/Sep/blogpost-1474867854691.jpg)
-When was the last time you heard an admirable entrepreneur giving the advice of ‘Scratch your own itch’?
+![Scratch your own itch](https://s3-ap-southeast-1.amazonaws.com/beingremarkable/2016/Sep/blogpost-1474867854691.jpg)
 
-At your first glimpse, with the anecdotal help of successful [product entrepreneurs](http://beingremarkable.me/blog/a-new-face-product-entrepreneurship) who made it big by simply looking for ‘a better way’, the advice sounds like a great idea. Right?
+Have you heard the advice to *Scratch your own itch*?
 
-Perhaps if this advice was directed towards dreamy-eyed *wantrepreneurs* who have an idea for the next app, a new blog, a better restaurant model and a seminar series (all at the same time!)...a bit of personal focus would actually help them sort themselves out.
+On first consideration the advice sounds like a reasonable idea. You might also recall stories of entrepreneurs who were successful by simply looking for ‘a better way'. Failures may not come to mind.
 
-However, assuming you are not a *wantrepreneur* and you're really willing to take action today, there are three fatal mistakes that every seasoned entrepreneur has fallen into when trying to scratch their own itch. Fall for one of these and you’re very likely to fail. Failure doesn't mean your entrepreneurship journey is over, but this failure won't teach you anything you can't learn in the next 5 minutes. Pay attention, reflect and learn.
+Let's get one thing straight. When such advice is directed towards dreamy-eyed *wantrepreneurs* who have yet another idea for the next app, blog, restaurant, and seminar series (all at the same time!), a bit of personal focus would be the appropriate advice.
+
+Assuming you are not a *wantrepreneur*, there are (at least) three fatal mistakes every seasoned *(read: screwed up plenty of times)* entrepreneur has fallen into when trying to scratch their own itch. Fall for one of these and you’re very likely to fail. Failure doesn't mean your entrepreneurship journey is over, but this failure won't teach you anything you can't learn in the next 5 minutes.
+
+Pay attention, reflect and learn.
 
 ***
 
-## You will convince yourself of bad ideas easier than you will be able to convince your customers
+## You are the easiest person to fool
 
-Have a look at the entrepreneurs who you admire and filter them through the filter of "Did they scratch their own itch to be successful?".
+> The first principle is that you must not fool yourself and you are the easiest person to fool.
+>
+> -- <cite>Richard Feynman</cite>
 
-**Yes!** You might say. However consider the problem here. You are only considering those who actually were successful (otherwise why would you look up to them for guidance?)
+You will fail when you arrogantly assume everyone has YOUR problem.
 
-I am certain that they **also** had a deep connection with the other people who had the same problem they had before they *scratched their itch.* The ones who failed and never make it onto your radar are those who assumed everyone had *their* problem.
+Whilst beneficial, your arrogance may make you fail if you are the target customer of your product. It's too easy to get caught up in how smart—, or how uniquely positioned you are to solve the problem. And because the problem is vivid, it might even feel like you're already successful.
 
-"The arrogance to assume everyone has YOUR problem will make you fail
+Big mistake.
 
-Why does this happen? Startups are fun, you could make a lot of money, you could be a rockstar. **You are biased.** Although it generally can be hugely beneficial, if you are the target customer your arrogance may make you fail.
+Every entrepreneur I know has been in this situation at least once or twice before, including me of course. We get excited and dive deep into solving the problem with *(what seems as)* the perfect market conditions. We are convinced that our product has become the *category killer* or *market standard* before we make our first customer pitch.
 
-Admittedly, myself among every entrepreneur I know has been in this situation at least once or twice before. We dive so deep into solving the problem with (what seems as) the perfect market conditions, we are convinced that our product has become the ‘market standard’ before anyone hears about it (except for our friends, family and dog).
+If the problem is real, your target customers are solving it one way or another today. Think about this. If people aren't currently solving the problem, they likely don't care enough about a solution.
 
-If the problem is real, then your target customers are solving it in one way or another today.
+Your job is to understand how they are solving the problem today, then whether they are more receptive to their current solution being better/cheaper/easier to use etc. Don't build *better* if they want *cheaper*. Especially don't build better because you want better.
 
-In most occurrences other technology and products exist that will probably solve 80-90% of the problem they are facing. Your job is to understand if they are more receptive to their current solution being better/cheaper/easier to use etc. Don't build better if they want cheaper. Especially don't build better because you want better. (If this really is going to be a business.)
-
-**The lesson:** Never invest in solving a problem that people aren't trying to solve today. Convincing people they have a problem is **way** harder than addressing one that frustrates them right now.
+**Never invest in solving a problem that people aren't trying to solve today. Convincing people they have a problem is harder than addressing one that frustrates them right now.**
 
 ***
 
 ## When you're holding a hammer, everything looks like a nail
 
-As you grow your business you will undoubtedly discover that customers have more problems than the one you set out to solve. What typically happens is the ‘We can do that too' pitch.
+You will undoubtedly discover that customers have more problems than the one you are solving for them today. What typically happens is the *‘We can do that too'* pitch. It seems like easy money right?
 
-It seems like easy money right? Looking at a customer’s new problem as an extension of their first problem is likely going to result in shortcuts on finding the best solution.
+Finding more products for your current customers is a good strategy. In fact, because it's cheaper to sell to existing customers, it's a brilliant strategy. Here's the concern: looking at a customer’s new problem as an *extension* of their first problem may result in a shallow understanding of the market.
 
-For example, let’s say that you have helped a client with their social media strategy and your team consists of a web developer, a designer and you. When you hear the client say they want a CRM that would link into their social media accounts the natural reaction is: ‘We can do that!’ They love you, accept your offer and you get to work with your team on building a CRM for your client.
+For example, let’s say that you have helped a client with their social media strategy. The client wants a CRM and your reaction is: *‘Hey, we can do that!’*. Because they love you, they accept your offer and you get to work building a CRM.
 
-The better option would be to see what products out there do 80-90% of their requirements and help them navigate through the process, looking for what problems come up. Just because you have a team who knows some things about the web doesn’t mean throwing them at every problem is going to be your best foot forward.
+The better option would be to see what off-the-shelf products solve 80-90% of their requirements and help them navigate through the process, looking for what problems come up. It's likely that you won this project because of your trust, your emotional labour, and your honesty.
 
-Consulting on implementing your biggest and boldest competitor's product will teach you a lot about how to differentiate yourself in the market.
+If this is a product area you were considering, take the consulting and implementation gig. Implementing your competitor's product will teach you a lot about how to position your own product. Or maybe you'll realise that it's not the market you want to be in.
 
-**The lesson:** Just because you know **how** to solve a problem doesn't mean you should. Look for the best possible alternatives and work with your customers to figure out the issues with what is available today. Commit and own the relationship, not a specific product or technology.
+**Just because you know how to solve a problem doesn't mean you should. Commit and own the relationship, not the product.**
 
 ***
 
-## When someone is smarter than you, it doesn’t mean they are the smartest person in the world
+## Smarter than you doesn’t mean smartest in the world
 
-This happens to both [Product Entrepreneurs and Sales Entrepreneurs](https://medium.com/product-entrepreneurship/what-type-of-entrepreneur-are-you-ee8cfb51495c) at least once in their business career.
+This happens to both [Product Entrepreneurs and Sales Entrepreneurs](https://medium.com/product-entrepreneurship/what-type-of-entrepreneur-are-you-ee8cfb51495c) at least once in their career.
 
-My guess is, you know people. We all do. However just because you know them and they are smarter than you, it doesn’t mean they are the best fit for your team.
+My guess is, you know people. We all do. Just because you know someone, and they are smarter than you, it doesn’t mean they are the best fit for your team.
 
-The right people for your team depends on what you're trying to build. How smart they are is a tiny part of what really matters. Two great people that work together is much more valuable than two amazing people who work against each other.
+The right people for your team depends on what you're trying to build. Their *relative smartness* to you never matters. A great working relationship between two people is much more valuable than two amazing people who work against each other.
 
-Hiring someone just because you know them is **always** a terrible strategy. Even if they end up working out in your team, you failed as an entrepreneur. Too often have I seen technology companies base their product around the limited knowledge of the first 'technical' cofounder (because you couldn't pay cash). Too often have I seen service companies waste a quarter-million dollars on salespeople who they hired because they were too scared to sell their own product.
+Hiring someone just because you know them is **always** a terrible strategy. It's just lazy. Even if it is a good decision, you failed as an entrepreneur.
 
-**The lesson:** don't hire someone who impresses you about something you don't understand and don't want to admit.
+I've seen countless technology companies base their product around the limited knowledge of the first 'technical' cofounder, simply because they didn't have the cash to hire the right person for the job. I've also seen service companies waste a quarter-million dollars on salespeople who they hired because they were too scared to sell their own product.
+
+**Don't hire someone who impresses you about something you don't understand and don't want to admit.**
