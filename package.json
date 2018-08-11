@@ -1,11 +1,10 @@
 {
-  "name": "gatsby-starter-minimal-blog",
-  "description": "Gatsby Starter - Minimal Blog",
+  "name": "being-remarkable-blog",
+  "description": "Being Remarkable Blog - personal blog of Todd Heslin",
   "version": "1.0.0",
-  "author": "LekoArts <hello@lekoarts.de>",
   "dependencies": {
     "babel-plugin-styled-components": "^1.5.1",
-    "gatsby": "^2.0.0-beta.55",
+    "gatsby": "^2.0.0-beta.98",
     "gatsby-plugin-catch-links": "^2.0.2-beta.4",
     "gatsby-plugin-lodash": "^3.0.1-beta.3",
     "gatsby-plugin-manifest": "^2.0.2-beta.3",
