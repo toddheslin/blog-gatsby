@@ -43,6 +43,7 @@ const Content = styled.div`
 
 const Contact = () => (
   <Layout>
+    <script src='https://www.google.com/recaptcha/api.js'></script>
     <Wrapper>
       <Helmet title={`Contact | ${config.siteTitle}`} />
       <Header>
@@ -50,8 +51,8 @@ const Contact = () => (
       </Header>
       <Content>
         <h1>Contact</h1>
-        <p>Super cool intro text to get people contacting me! It uses Netlify's form feature.</p>
-        <form name="contact-form" method="post" data-netlify="true" data-netlify-honeypot="bot-field" action="/success">
+        <p>Want to get in touch? Leave your details below and I'll reply as soon as I can.</p>
+        <form name="contact-form" method="post" data-netlify="true" data-netlify-honeypot="bot-field" action="/success" netlify-recaptcha netlify>
           <p>
             <label htmlFor="name">Name</label>
             <input name="name" type="text" required />
@@ -64,6 +65,7 @@ const Contact = () => (
             <label htmlFor="message">Your Message</label>
             <textarea name="message" required />
           </p>
+          <div className="g-recaptcha" data-sitekey="6LeSj2kUAAAAAJmMuzPbrNGlfgKUp4ylYTxcwr0v"></div>
           <p>
             <Button>Send</Button>
           </p>
