@@ -46,7 +46,6 @@ const Content = styled.div`
 
 const Contact = () => (
   <Layout>
-    <script src='https://www.google.com/recaptcha/api.js'></script>
     <Wrapper>
       <Helmet title={`Contact | ${config.siteTitle}`} />
       <Header>
