@@ -70,9 +70,9 @@ const Contact = () => (
             <label htmlFor="message">Your Message</label>
             <textarea name="message" required />
           </p>
-          <p>
+          {/* <p>
             <div className="g-recaptcha" data-sitekey="6LeSj2kUAAAAAJmMuzPbrNGlfgKUp4ylYTxcwr0v"></div>
-          </p>
+          </p> */}
           <p>
             <Button>Send</Button>
           </p>
