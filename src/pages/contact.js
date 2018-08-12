@@ -37,6 +37,9 @@ const Content = styled.div`
         min-height: 150px;
         width: 100%;
       }
+      &.hidden {
+        display: none;
+      }
     }
   }
 `;
@@ -53,6 +56,9 @@ const Contact = () => (
         <h1>Contact</h1>
         <p>Want to get in touch? Leave your details below and I'll reply as soon as I can.</p>
         <form name="contact-form" method="post" data-netlify="true" data-netlify-honeypot="bot-field" action="/success" netlify-recaptcha netlify>
+          <p className="hidden">
+            <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
+          </p>
           <p>
             <label htmlFor="name">Name</label>
             <input name="name" type="text" required />
